@@ -20,7 +20,6 @@ Basicamente, no site temos um menu que contém informações referentes à naveg
 ## Tecnologias
 * HTML
 * CSS
-* JavaScript
 
 ## Projeto 
 <p align="center">
